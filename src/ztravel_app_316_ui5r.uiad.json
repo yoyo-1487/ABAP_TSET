@@ -1,0 +1,33 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Travel App 316",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "ztravelapp316"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_9C1850B39222CD63998B906CD2C3FCC7A42D2530_TM",
+    "semanticObject": "ztravel_app_316",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_9C1850B39222CD63998B906CD2C3FCC7A42D2530_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Travel App 316"
+      }
+    }
+  ]
+}
